@@ -19,6 +19,6 @@ public class Main
         Etod.get();
         // Etod.getInfo();
 
-        e.change(4);
+        // e.change(4);
     }
 }
